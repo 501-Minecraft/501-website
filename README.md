@@ -3,7 +3,8 @@ My website update log
 
 This is GitHub page about my website's updateds :P
 
-In following .html documents are wrote latest chnages about my website. Code is protected under copyright law. 
+In following .html, .css, .txt, .js and other documents are wrote about latest changes my website and are copyrighte.
+Code is protected under copyright law. 
 
 You are permited to view the code, but not use it
 
